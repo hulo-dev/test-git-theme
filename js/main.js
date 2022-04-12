@@ -1,3 +1,5 @@
+console.log('aloi')
+
 (function () {
   // Polyfill for NodeList.prototype.forEach() in IE
   if (window.NodeList && !NodeList.prototype.forEach) {
